@@ -1,7 +1,13 @@
 # git-playground
+I am from Dc abdul
 Testing some git features.
+<
 This is a test from Redwan
 Another line added
+=======
+This is a test from Roni
+And Chaz
+
 Somebody else has added a new line!
 
 more testing
