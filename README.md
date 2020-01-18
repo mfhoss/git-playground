@@ -1,6 +1,6 @@
 # git-playground
 Testing some git features.
-This is a test from Abdul
+This is a test from Redwan
 Somebody else has added a new line!
 
 more testing
