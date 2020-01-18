@@ -1,6 +1,7 @@
 # git-playground
 Testing some git features.
 This is a test from Redwan
+Another line added
 Somebody else has added a new line!
 
 more testing
